@@ -13,14 +13,26 @@
       }
     },
     {
+      "image": "valonia-cover.png",
+      "position": {
+        "position_anchor": "CENTER",
+        "position_unit": "PERCENTAGE",
+        "x": 50,
+        "y": 25,
+        "size_unit": "PERCENTAGE",
+        "width": 60,
+        "height": 30
+      }
+    },
+    {
       "image": "valonia-logo.png",
       "position": {
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 35,
+        "y": 25,
         "size_unit": "PERCENTAGE",
-        "width": 40
+        "width": 50
       }
     },
     {
@@ -29,9 +41,9 @@
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 50,
+        "y": 45,
         "size_unit": "PERCENTAGE",
-        "width": 25
+        "width": 30
       }
     },
     {
@@ -40,21 +52,36 @@
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 75,
+        "y": 65,
         "size_unit": "PERCENTAGE",
         "width": 15
       }
+    },
+    {
+      "image": "valonia-progressbar.png",
+      "position": {
+        "position_anchor": "CENTER",
+        "position_unit": "PERCENTAGE",
+        "x": 50,
+        "y": 75,
+        "size_unit": "PERCENTAGE",
+        "width": 40
+      }
+    },
+    {
+      "image": "forge-cover.png",
+      "position": {
+        "position_anchor": "BOTTOM_RIGHT",
+        "position_unit": "PERCENTAGE",
+        "x": 100,
+        "y": 100,
+        "size_unit": "PERCENTAGE",
+        "width": 20,
+        "height": 25
+      }
     }
   ],
-  "progress_bar": {
-    "bar_count": 1,
-    "position": {
-      "position_anchor": "TOP_CENTER",
-      "position_unit": "PERCENTAGE",
-      "x": 50,
-      "y": 80
-    }
-  },
+  "progress_bar": null,
   "performance_bar": false,
   "fox": false,
   "log_messages": false,

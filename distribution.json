@@ -1,0 +1,32 @@
+{
+  "$schema": "./schema/distribution.schema.json",
+  "version": "1.0.0",
+  "name": "Valonia Server",
+  "description": "Serveur Minecraft modé Valonia",
+  "minecraft": {
+    "version": "1.20.1",
+    "type": "release"
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "java": {
+    "minVersion": 17,
+    "recommended": 21
+  },
+  "server": {
+    "ip": "play.valonia.fr",
+    "port": 25565,
+    "autoConnect": true
+  },
+  "files": {
+    "mods": [],
+    "configs": [],
+    "resourcepacks": []
+  },
+  "metadata": {
+    "lastUpdated": "2024-12-04T12:00:00Z",
+    "maintainer": "Valonia Team",
+    "discord": "https://discord.gg/valonia"
+  }
+}

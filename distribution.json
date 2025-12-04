@@ -31,6 +31,15 @@
         "enabled": true
       },
       {
+        "name": "valonia loading",
+        "fileName": "valonia-loading-1.0.0.jar",
+        "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/mods/valonia-loading-1.0.0.jar",
+        "md5": "d51bfa84694affa6e134021be08b6ce0",
+        "size": 10207,
+        "required": true,
+        "enabled": true
+      },
+      {
         "name": "Xaeros Minimap 25.2.10 Forge 1.20",
         "fileName": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
         "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
@@ -44,10 +53,10 @@
     "resourcepacks": []
   },
   "metadata": {
-    "lastUpdated": "2025-12-04T13:41:12.995Z",
+    "lastUpdated": "2025-12-04T14:05:46.551Z",
     "maintainer": "Valonia Team",
     "discord": "https://discord.gg/valonia",
-    "totalMods": 2,
-    "totalSize": 3132524
+    "totalMods": 3,
+    "totalSize": 3142731
   }
 }

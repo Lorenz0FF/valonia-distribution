@@ -66,6 +66,12 @@
         "size": 1664
       },
       {
+        "path": "simple-custom-early-loading/valonia-background.png",
+        "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/configs/simple-custom-early-loading/valonia-background.png",
+        "md5": "00ea7d00c3e81e29d021eca3c0bee8d3",
+        "size": 134246
+      },
+      {
         "path": "simple-custom-early-loading/valonia-logo.png",
         "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/configs/simple-custom-early-loading/valonia-logo.png",
         "md5": "8dde4292e664f5d684c5c8b1f1a4da90",
@@ -80,17 +86,17 @@
       {
         "path": "simple-custom-early-loading.json",
         "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/configs/simple-custom-early-loading.json",
-        "md5": "69486175b8fb911105a20c5e3ee5d668",
-        "size": 1159
+        "md5": "2fe1af4f04c619db9a231ad7ae57ac07",
+        "size": 1348
       }
     ],
     "resourcepacks": []
   },
   "metadata": {
-    "lastUpdated": "2025-12-04T14:29:26.500Z",
+    "lastUpdated": "2025-12-04T14:36:26.459Z",
     "maintainer": "Valonia Team",
     "discord": "https://discord.gg/valonia",
     "totalMods": 4,
-    "totalSize": 4034702
+    "totalSize": 4169137
   }
 }

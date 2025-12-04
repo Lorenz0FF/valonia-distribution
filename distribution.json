@@ -20,13 +20,34 @@
     "autoConnect": true
   },
   "files": {
-    "mods": [],
+    "mods": [
+      {
+        "name": "jei",
+        "fileName": "jei-1.20.1-forge-15.20.0.127.jar",
+        "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/mods/jei-1.20.1-forge-15.20.0.127.jar",
+        "md5": "eb190c5d3415e244e024828722287ed0",
+        "size": 1409495,
+        "required": true,
+        "enabled": true
+      },
+      {
+        "name": "Xaeros Minimap 25.2.10 Forge 1.20",
+        "fileName": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+        "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+        "md5": "2b2bfaf3a1872b83c57aaa51c73f10d9",
+        "size": 1723029,
+        "required": true,
+        "enabled": true
+      }
+    ],
     "configs": [],
     "resourcepacks": []
   },
   "metadata": {
-    "lastUpdated": "2024-12-04T12:00:00Z",
+    "lastUpdated": "2025-12-04T13:41:12.995Z",
     "maintainer": "Valonia Team",
-    "discord": "https://discord.gg/valonia"
+    "discord": "https://discord.gg/valonia",
+    "totalMods": 2,
+    "totalSize": 3132524
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "valonia-distribution",
+  "version": "1.0.0",
+  "description": "Distribution de mods pour Valonia Launcher",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "keywords": ["minecraft", "mods", "forge", "valonia"],
+  "author": "Lorenz0FF",
+  "license": "MIT"
+}

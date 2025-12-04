@@ -1,0 +1,56 @@
+{
+  "background_color": "#0a0a14",
+  "progress_bar": {
+    "enabled": true,
+    "position_anchor": "BOTTOM_CENTER",
+    "position_unit": "PERCENTAGE",
+    "x": 50,
+    "y": 80,
+    "width": 400,
+    "height": 8,
+    "size_unit": "PIXELS",
+    "background_color": "#1a1a2e",
+    "foreground_color": "#8b5cf6"
+  },
+  "performance_bar": {
+    "enabled": false
+  },
+  "memory_bar": {
+    "enabled": false
+  },
+  "log": {
+    "enabled": false
+  },
+  "version": {
+    "enabled": false
+  },
+  "elements": [
+    {
+      "image": "valonia-logo.png",
+      "position_anchor": "CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 40,
+      "width": 400,
+      "size_unit": "PIXELS"
+    },
+    {
+      "image": "valonia-subtitle.png",
+      "position_anchor": "CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 55,
+      "width": 300,
+      "size_unit": "PIXELS"
+    },
+    {
+      "image": "loading-text.png",
+      "position_anchor": "CENTER",
+      "position_unit": "PERCENTAGE",
+      "x": 50,
+      "y": 88,
+      "width": 150,
+      "size_unit": "PIXELS"
+    }
+  ]
+}

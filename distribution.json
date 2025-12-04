@@ -104,17 +104,17 @@
       {
         "path": "simple-custom-early-loading.json",
         "url": "https://raw.githubusercontent.com/Lorenz0FF/valonia-distribution/main/configs/simple-custom-early-loading.json",
-        "md5": "fd1432fa49e586c943218cf5ff559cf0",
-        "size": 2007
+        "md5": "4a58c831539e5090fe3d43317f545ed8",
+        "size": 1449
       }
     ],
     "resourcepacks": []
   },
   "metadata": {
-    "lastUpdated": "2025-12-04T14:44:20.481Z",
+    "lastUpdated": "2025-12-04T14:48:48.709Z",
     "maintainer": "Valonia Team",
     "discord": "https://discord.gg/valonia",
     "totalMods": 4,
-    "totalSize": 4186551
+    "totalSize": 4185993
   }
 }

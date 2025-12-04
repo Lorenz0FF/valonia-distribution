@@ -13,26 +13,14 @@
       }
     },
     {
-      "image": "valonia-cover.png",
-      "position": {
-        "position_anchor": "CENTER",
-        "position_unit": "PERCENTAGE",
-        "x": 50,
-        "y": 25,
-        "size_unit": "PERCENTAGE",
-        "width": 60,
-        "height": 30
-      }
-    },
-    {
       "image": "valonia-logo.png",
       "position": {
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 25,
+        "y": 40,
         "size_unit": "PERCENTAGE",
-        "width": 50
+        "width": 35
       }
     },
     {
@@ -41,9 +29,9 @@
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 45,
+        "y": 52,
         "size_unit": "PERCENTAGE",
-        "width": 30
+        "width": 25
       }
     },
     {
@@ -52,9 +40,9 @@
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 65,
+        "y": 70,
         "size_unit": "PERCENTAGE",
-        "width": 15
+        "width": 12
       }
     },
     {
@@ -63,21 +51,9 @@
         "position_anchor": "CENTER",
         "position_unit": "PERCENTAGE",
         "x": 50,
-        "y": 75,
+        "y": 80,
         "size_unit": "PERCENTAGE",
-        "width": 40
-      }
-    },
-    {
-      "image": "forge-cover.png",
-      "position": {
-        "position_anchor": "BOTTOM_RIGHT",
-        "position_unit": "PERCENTAGE",
-        "x": 100,
-        "y": 100,
-        "size_unit": "PERCENTAGE",
-        "width": 20,
-        "height": 25
+        "width": 35
       }
     }
   ],
